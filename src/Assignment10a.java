@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment10 {
+public class Assignment10a {
     public static void main(String[] args) {
 
         double u,t,a,s;
